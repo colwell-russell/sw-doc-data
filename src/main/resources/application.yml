@@ -1,0 +1,5 @@
+spring:
+  profiles: default
+server:
+  servlet:
+    context-path: /sw-doc-data/v1
