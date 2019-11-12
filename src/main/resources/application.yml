@@ -1,5 +1,13 @@
 spring:
   profiles: default
+  couchbase:
+    bootstrap-hosts: localhost
+    bucket:
+      name: test
+      password: couchbase
+  data:
+    couchbase:
+      auto-index: true
 server:
   servlet:
     context-path: /sw-doc-data/v1
