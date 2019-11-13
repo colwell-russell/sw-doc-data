@@ -31,3 +31,7 @@ Create user
 - Views (BOTH)
 - Query and Index Services (ALL)
 
+URL for wait-for-it container script
+https://github.com/vishnubob/wait-for-it
+https://github.com/jwilder/dockerize  ---USE THIS FIRST
+
