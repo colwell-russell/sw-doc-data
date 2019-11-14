@@ -1,7 +1,7 @@
 spring:
   profiles: default
   couchbase:
-    bootstrap-hosts: localhost
+    bootstrap-hosts: db
     bucket:
       name: test
       password: couchbase
